@@ -1,2 +1,2 @@
 # ash
-Another SHell that hopefully has some more features
+Another SHell, this time following along the guide of (this chapter)[https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf] (I don't know the book.
